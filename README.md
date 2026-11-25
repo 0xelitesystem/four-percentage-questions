@@ -1,8 +1,8 @@
-# Percentage Calculator
+# Four Percentage Questions
 
 Four common percentage questions with clearly labeled inputs and live answers. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/percentage-calculator/
+**Live demo:** https://0xelitesystem.github.io/four-percentage-questions/
 
 ## Use
 
@@ -28,8 +28,8 @@ Everything runs in your browser. The numbers you type never leave your machine. 
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/percentage-calculator
-cd percentage-calculator
+git clone https://github.com/0xelitesystem/four-percentage-questions
+cd four-percentage-questions
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
